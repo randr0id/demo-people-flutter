@@ -16,8 +16,8 @@
 
 import 'dart:convert';
 
+import 'package:flutter_test/flutter_test.dart';
 import 'package:people/data/person.dart';
-import 'package:test/test.dart';
 
 void main() {
   List<dynamic> jsonBody;
