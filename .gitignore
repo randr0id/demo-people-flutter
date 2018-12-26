@@ -1,0 +1,90 @@
+# application
+*.apk
+*.ap_
+*.ipa
+
+# dex VM
+*.dex
+
+# java
+*.class
+
+# generated
+bin/
+gen/
+.generated/
+*.bin
+*.dill
+
+# gradle
+build/
+.gradle/
+
+# local configuration
+local.properties
+secure.properties
+
+# crashlytics
+com_crashlytics*
+crashlytics-build.properties
+
+# proguard
+proguard/
+
+# flutter
+.atom/
+.pub/
+packages/
+.flutter-plugins
+.packages
+pubspec.lock
+GeneratedPluginRegistrant.java
+
+# intelliJ
+*.iml
+.idea/
+!.idea/copyright/
+!.idea/codeStyles/
+!.idea/codeStyleSettings.xml
+
+# android studio
+captures/
+
+# xcode
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+.vagrant/
+.sconsign.dblite
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.xcuserstate
+ServiceDefinitions.json
+GeneratedPluginRegistrant.h
+GeneratedPluginRegistrant.m
+Pods/
+
+# carthage
+Carthage/Checkouts
+Carthage/Build
+
+# mac OS X
+.DS_Store
+*.swp
+profile
+
+# windows
+Thumbs.db
